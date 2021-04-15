@@ -15,6 +15,7 @@ Resource
 
 // Declare variables
 $name = 'zura';
+$surname = 'smith';
 $age = 28;
 $ismale = true;
 $height = '1.85';
