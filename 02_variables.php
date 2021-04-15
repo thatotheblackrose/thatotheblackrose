@@ -51,8 +51,8 @@ echo gettype($name). '<br>';
 isset($name); // true
 isset($address); // false
 // Constants
-const PI = 3.14;
+define('PI', 3.14);
 echo PI. '<br>';
 // Using PHP built-in constants
-echo SORT_ASC. '<br>';
-echo PHP_INT_MAX. '<br>';
+echo SORT_ASC.'<br>';
+echo PHP_INT_MAX.'<br>';
