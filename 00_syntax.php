@@ -9,9 +9,13 @@
 </head>
 <body>
 <?php
-echo "hello world"
-
-
+echo "hello world";
+echo " and PHP";
+?>
+<?php
+echo '<br>';
+echo '<button> Click me </button>';
+echo 'Hello from another tag';
 
 ?>
 </body>
